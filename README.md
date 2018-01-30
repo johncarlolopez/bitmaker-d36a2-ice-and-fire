@@ -1,3 +1,4 @@
+![Bitmaker](https://github.com/johncarlolopez/bitmaker-reference/blob/master/bitmakerlogo.svg)
 Where are your Dragons? Right here, friends!
 
 Today you are going to be working in a land of Ice and Fire with Dragons, and the Riders who love them. You will practice the same testing techniques from days past. However, today you will use Factories to generate the objects your test cases run against.
